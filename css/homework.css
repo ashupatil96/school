@@ -1,0 +1,13 @@
+table.download,td,tr
+{
+	 border: 1px solid #ddd;
+    text-align: left;
+}
+table.download {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    padding: 15px;
+}
